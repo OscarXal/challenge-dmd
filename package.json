@@ -58,5 +58,8 @@
     "styled-components": "^6.1.11",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.11.0"
+  },
+  "overrides": {
+    "typescript": "^5.4.5"
   }
 }
